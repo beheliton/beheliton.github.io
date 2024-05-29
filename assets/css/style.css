@@ -1,0 +1,312 @@
+html {
+    box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    margin: 0;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 26px;
+}
+
+.container {
+    max-width: 992px;
+    margin: 0 auto;
+}
+
+.main {}
+
+.block-one {
+    margin-top: 64px;
+    max-width: 680px;
+}
+
+.block-one__title {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 40px;
+}
+
+.br-work-and {
+    display: none;
+}
+
+.br-yandex-direct-with {
+    display: none;
+}
+
+.br-advertising-in {
+    display: none;
+}
+
+.mt20 {
+    margin-top: 20px;
+}
+
+.img-block {
+    margin-top: 48px;
+}
+
+.img-block__text {
+    margin-top: 8px;
+    max-width: 680px;
+    font-size: 15px;
+    line-height: 24px;
+}
+
+.block-text-list {
+    margin-top: 48px;
+}
+
+.block-text-list__text {
+    max-width: 680px;
+}
+
+.br-difficult-with {
+    display: none;
+}
+
+.br-goods-in {
+    display: none;
+}
+
+.br-ural-in {
+    display: none;
+}
+
+.br-shares-and {
+    display: none;
+}
+
+.br-sales {
+    display: none;
+}
+
+.br-talk-about {
+    display: none;
+}
+
+.block-text-list__title {
+    font-weight: 700;
+    margin-top: 20px;
+    margin-bottom: 12px;
+}
+
+.block-text-list__flex {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    margin-left: 12px;
+}
+
+.block-text-list__flex-elem {}
+
+.block-two {
+    margin-top: 64px;
+}
+
+.block-two__title {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 40px;
+}
+
+.limited-width {
+    max-width: 680px;
+}
+
+.bold-text {
+    font-weight: 700;
+}
+
+.block-two__flex {
+    display: flex;
+    justify-content: space-between;
+}
+
+.block-two-callout {
+    font-size: 13px;
+    line-height: 20px;
+    color: #0068FF;
+    margin-top: 20px;
+}
+
+.recommended-articles {
+    margin-top: 46px;
+    padding: 28px 32px;
+    border: 2px solid #CCCCCC;
+    max-width: 680px;
+}
+
+.recommended-articles__title {
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 30px;
+    height: 31px;
+}
+
+.arrow-img {
+    position: relative;
+    top: -57.3px;
+    left: 450.77px;
+}
+
+.underline-img {
+    position: relative;
+    left: 93px;
+    top: -3px;
+}
+
+.article-list__item {
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+    margin-top: 22px;
+}
+
+.article-list__item:last-child {
+    margin-top: 29px;
+}
+
+.article-list__item img {
+    max-width: 90px;
+    height: 48px;
+    object-fit: cover;
+}
+
+.article-list__link {
+    font-size: 17px;
+    line-height: 26px;
+    color: #0068FF;
+    text-decoration: none;
+}
+
+.article-list__link:hover {
+    text-decoration: underline;
+}
+
+.block-three {
+    margin-top: 62px;
+}
+
+.block-three__title {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 40px;
+}
+
+.block-three__flex {
+    display: flex;
+    justify-content: space-between;
+}
+
+.block-three__flex-elem:last-child {
+    margin-top: 30px;
+}
+
+.block-three__under-text {
+    margin-top: 4px;
+}
+
+.block-three-callout {
+    font-size: 13px;
+    line-height: 20px;
+    color: #0068FF;
+    margin-top: 8px;
+}
+
+.authored-quote {
+    margin-top: 48px;
+}
+
+.img-line {
+    position: absolute;
+}
+
+.authored-quote__text-one {
+    margin-left: 33px;
+}
+
+.authored-quote__text-two {
+    margin-left: 33px;
+    margin-top: 20px;
+}
+
+.authored-quote__flex {
+    display: flex;
+    margin-left: 33px;
+    margin-top: 24px;
+    gap: 12px;
+}
+
+.authored-quote__flex-elem {}
+
+.authored-quote__name {
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 20px;
+}
+
+.authored-quote__who {
+    font-size: 13px;
+    line-height: 20px;
+}
+
+.block-four {
+    margin-top: 48px;
+}
+
+.br-central-or {
+    display: none;
+}
+
+.br-not-themselves {
+    display: none;
+}
+
+.only_tablet {
+    display: none;
+}
+
+.br-teachers-all {
+    display: none;
+}
+
+.br-measurements-and {
+    display: none;
+}
+
+.br-only-desktop {
+    display: block;
+}
+
+.br-only-tablet {
+    display: none;
+}
+
+.br-only-mobile {
+    display: none;
+}

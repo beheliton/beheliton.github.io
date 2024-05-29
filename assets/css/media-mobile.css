@@ -1,0 +1,111 @@
+@media screen and (max-width: 320px) {
+    .container {
+        max-width: 288px;
+        margin: 0 auto;
+    }
+
+    .responsive-img {
+        position: relative;
+        left: 50%;
+        transform: translateX(-50%);
+        max-width: 320px;
+        height: 175px;
+    }
+
+    .block-two-callout {
+        margin-top: 15px;
+        margin-left: 32px;
+        max-width: 169px !important;
+    }
+
+    .br-difficult-with {
+        display: block;
+    }
+
+    .br-sales {
+        display: none;
+    }
+
+    .br-work-and {
+        display: block;
+    }
+
+    .br-yandex-direct-with {
+        display: block;
+    }
+
+    .br-goods-in {
+        display: block;
+    }
+
+    .br-ural-in {
+        display: block;
+    }
+
+    .br-shares-and {
+        display: block;
+    }
+
+    .br-talk-about {
+        display: none;
+    }
+
+    .recommended-articles {
+        max-width: 288px;
+        padding: 20px 16px;
+    }
+
+    .arrow-img {
+        left: 213.77px;
+        top: -87.3px;
+    }
+
+    .article-list__item img {
+        display: none;
+    }
+
+    .underline-img {
+        left: 52px;
+        top: -4px;
+    }
+
+    .article-list__item {
+        justify-content: space-between;
+        align-items: start;
+        margin-top: 33px;
+    }
+
+    .dn {
+        display: none;
+    }
+
+    .block-three {
+        margin-top: 40px;
+    }
+
+    .br-only-mobile {
+        display: block;
+    }
+
+    .br-not-themselves {
+        display: none;
+    }
+
+    .br-only-tablet {
+        display: none;
+    }
+
+    .block-three-callout {
+        margin-top: 12px;
+        line-height: 18px;
+    }
+
+    .br-not-mobile {
+        display: none;
+    }
+
+    .img-above-text {
+        max-width: 169px;
+        height: 88px;
+    }
+}

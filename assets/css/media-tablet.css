@@ -1,0 +1,183 @@
+@media screen and (max-width: 768px) {
+    .container {
+        max-width: 608px;
+        margin: 0 auto;
+    }
+
+    .block-one {
+        margin-top: 48px;
+    }
+
+    .block-one__title {
+        font-weight: 700;
+        font-size: 24px;
+        line-height: 24px;
+    }
+
+    .mt20 {
+        margin-top: 16px;
+    }
+
+    .img-block {
+        margin-top: 28px;
+    }
+
+    .responsive-img {
+        position: relative;
+        left: 50%;
+        transform: translateX(-50%);
+        max-width: 768px;
+        height: 421px;
+    }
+
+    .block-text-list {
+        margin-top: 28px;
+    }
+
+    .block-text-list__title {
+        margin-top: 16px;
+    }
+
+    .block-two {
+        margin-top: 48px;
+    }
+
+    .block-two__title {
+        font-size: 24px;
+        line-height: 24px;
+    }
+
+    .bold-text {
+        font-weight: 400;
+    }
+
+    .block-two__flex {
+        flex-direction: column;
+    }
+
+    .block-two-callout {
+        line-height: 18px;
+        margin-top: 15px;
+        margin-left: 44px;
+        max-width: 380px !important;
+    }
+
+    .block-two-callout br {
+        display: none;
+    }
+
+    .br-talk-about {
+        display: block;
+    }
+
+    .br-advertising-in {
+        display: block;
+    }
+
+    .br-sales {
+        display: block;
+    }
+
+    .recommended-articles {
+        margin-top: 28px;
+        max-width: 608px;
+    }
+
+    .recommended-articles__title {
+        font-size: 19px;
+        line-height: 28px;
+    }
+
+    .arrow-img {
+        top: -58.3px;
+        left: 390.77px;
+    }
+
+    .block-three {
+        margin-top: 43px;
+    }
+
+    .block-three__title {
+        font-size: 24px;
+        line-height: 24px;
+    }
+
+    .br-bears-a {
+        display: none;
+    }
+
+    .br-central-or {
+        display: block;
+    }
+
+    .br-that-but {
+        display: none;
+    }
+
+    .br-not-themselves {
+        display: block;
+    }
+
+    .block-three__flex {
+        display: none;
+    }
+
+    .only_tablet {
+        display: block;
+    }
+
+    .img-above-text {
+        max-width: 190px;
+        height: 100px;
+        margin-left: 32px;
+    }
+
+    .block-three-callout {
+        margin-left: 32px;
+    }
+
+    .limited-width {
+        max-width: 608px;
+    }
+
+    .block-three__under-text {
+        margin-top: 16px;
+    }
+
+    .br-teachers-all {
+        display: block;
+    }
+
+    .br-measurements-and {
+        display: block;
+    }
+
+    .br-only-desktop {
+        display: none;
+    }
+
+    .br-only-tablet {
+        display: block;
+    }
+
+    .authored-quote {
+        margin-top: 28px;
+    }
+
+    .authored-quote__text-one {
+        margin-left: 16px;
+    }
+
+    .authored-quote__text-two {
+        margin-left: 16px;
+        margin-top: 16px;
+    }
+
+    .authored-quote__flex {
+        margin-left: 16px;
+    }
+
+    .block-four {
+        margin-top: 28px;
+    }
+}
